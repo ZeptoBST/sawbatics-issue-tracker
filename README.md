@@ -39,3 +39,10 @@ Pending =     When a bug is set to be fixed for a later build.
 Technical =     Specifically for technical issues (ex: game crashes).
 
 UI =     Anything related to on-screen elements (ex: hud, menu, control prompts...).
+
+
+test
+-------
+
+Check out issues with the [enhancement](https://github.com/github/docs/labels/enhancement) label.
+
