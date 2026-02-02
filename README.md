@@ -6,7 +6,7 @@ Here's how to report an issue:
 
 1: Go to the [Issues](https://github.com/ZeptoBST/sawbatics-issue-tracker/issues) tab.
 
-2: Click on the [New Issue](https://github.com/ZeptoBST/sawbatics-issue-tracker/issues/new/chose) button in the top right.
+2: Click on the [New Issue](https://github.com/ZeptoBST/sawbatics-issue-tracker/issues/new/choose) button in the top right.
 
 3: Add a title briefly explaining the issue, then add a description to add further details. You're welcome to provide screenshots and videos if needed (Note that you can only upload files up to 10MB in size. It's recommended  that you upload videos to YouTube and link them instead.)
 
