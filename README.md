@@ -12,13 +12,13 @@ Audio =     Anything related to audio, wether it's music or sfx.
 
 Collision =     Anything related to model/object collision.
 
-Enhancement =     For suggestions that can improve the game.
+[Enhancement](https://github.com/ZeptoBST/sawbatics-issue-tracker/labels/enhancement) =     For suggestions that can improve the game.
 
-Events =     If a bug is related to an event supposed to happen in-game (ex: the alarm going off when commiting a crime).
+[Events](https://github.com/ZeptoBST/sawbatics-issue-tracker/labels/events) =     If a bug is related to an event supposed to happen in-game (ex: the alarm going off when commiting a crime).
 
-FPS =     Anything that has an effect on frame rate.
+[FPS](https://github.com/ZeptoBST/sawbatics-issue-tracker/labels/fps) =     Anything that has an effect on frame rate.
 
-Game Breaking =     For bugs causing serious issues in the game, such as alting progression.
+[Game Breaking](https://github.com/ZeptoBST/sawbatics-issue-tracker/labels/gamebreaking) =     For bugs causing serious issues in the game, such as alting progression.
 
 Graphics =     Anything related to visuals/what you can see on-screen (ex: models, effects, particles...).
 
@@ -39,10 +39,4 @@ Pending =     When a bug is set to be fixed for a later build.
 Technical =     Specifically for technical issues (ex: game crashes).
 
 UI =     Anything related to on-screen elements (ex: hud, menu, control prompts...).
-
-
-test
--------
-
-Check out issues with the [enhancement](https://github.com/ZeptoBST/sawbatics-issue-tracker/labels/enhancement) label.
 
