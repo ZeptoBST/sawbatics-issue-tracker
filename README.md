@@ -1,5 +1,5 @@
 # sawbatics-issue-tracker
-This repository serves to track bugs in Secret Agent Wizard Boy and the International Crime Syndicate.
+This repository serves to track bugs in Secret Agent Wizard Boy and the International Crime Syndicate: https://store.steampowered.com/app/3111080/Secret_Agent_Wizard_Boy_and_the_International_Crime_Syndicate/
 
 Here are the different labels to use:
 --------------------------------------------------------------
