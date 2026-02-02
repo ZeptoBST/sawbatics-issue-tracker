@@ -44,5 +44,5 @@ UI =     Anything related to on-screen elements (ex: hud, menu, control prompts.
 test
 -------
 
-Check out issues with the [enhancement](https://github.com/github/docs/labels/enhancement) label.
+Check out issues with the [enhancement](https://github.com/ZeptoBST/sawbatics-issue-tracker/labels/enhancement) label.
 
