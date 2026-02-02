@@ -18,13 +18,13 @@ Here are the different labels to use:
 
 [FPS](https://github.com/ZeptoBST/sawbatics-issue-tracker/labels/FPS) =     Anything that has an effect on frame rate.
 
-[Major Issues](https://github.com/ZeptoBST/sawbatics-issue-tracker/labels/Major Issues) =     For bugs causing serious issues in the game, such as alting progression.
+[Major Issues](https://github.com/ZeptoBST/sawbatics-issue-tracker/labels/"Major Issues") =     For bugs causing serious issues in the game, such as alting progression.
 
 [Graphics](https://github.com/ZeptoBST/sawbatics-issue-tracker/labels/Graphics) =     Anything related to visuals/what you can see on-screen (ex: models, effects, particles...).
 
 [Input](https://github.com/ZeptoBST/sawbatics-issue-tracker/labels/Input) =     Anything related to controls, wether it's Keyboard and mouse or controller.
 
-[Likely Won't Change](https://github.com/ZeptoBST/sawbatics-issue-tracker/labels/Likely Won't Change) =     When a bug is not going to be fixed.
+[Likely Won't Change](https://github.com/ZeptoBST/sawbatics-issue-tracker/labels/"Likely Won't Change") =     When a bug is not going to be fixed.
 
 [Missions](https://github.com/ZeptoBST/sawbatics-issue-tracker/labels/Missions) =     When a bug affects missions in the game (ex: shape key spawning in wrong location).
 
