@@ -16,6 +16,9 @@ If needed, provide steps to reproduce the behavior:
 **Game version:**
  - Version [e.g. 22]
 
+**Multiplayer?**
+ - [e.g. yes/no]
+
 **Screenshots/Footage**
 If applicable, add screenshots or videos to help explain your problem.
 
