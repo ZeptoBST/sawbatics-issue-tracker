@@ -13,7 +13,12 @@ Here's how to report an issue:
 4: Click on "Create" when you're done.
 
 
+
+
+
+
 FAQ:
+--------------------------------------------------------------
 
 Q: How do I know if an issue already exists?
 A: You can use the search box in the [Issues](https://github.com/ZeptoBST/sawbatics-issue-tracker/issues) tab to find an existing issue. Make sure to use key words (i.e: "biscuit", "cauldron", "broom", etc...) to narrow down the results.
