@@ -13,10 +13,6 @@ Here's how to report an issue:
 4: Click on "Create" when you're done.
 
 
-
-
-
-
 FAQ:
 --------------------------------------------------------------
 
@@ -31,4 +27,12 @@ Q: I'm not sure if an issue already exists or not, what do I do?
 A: When in doubt, report it anyway. If it did already exist, then it will be marked as "Duplicate" and will be closed. I'd rather people report duplicate issues than not reporting at all. Sometimes the devil's in the details.
 
 
+
+
+Note:
+--------------------------------------------------------------
+If an issue lacks details enough or is unclear, it will make it more difficult for us to know what is being described.
+We may ask for more details, but should that not be fulfilled we will have to close the issue.
+
+It should also go without saying, but any spam or troll/fake issues will be closed, please make use of common sense.
 
