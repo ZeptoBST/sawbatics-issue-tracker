@@ -11,7 +11,7 @@ assignees: ''
 A clear and concise description of what the bug is.
 
 **To Reproduce**
-If needed, provide steps to reproduce the behavior:
+If needed, provide steps to reproduce the behavior.
 
 **Game version:**
  - Version [e.g. 22]
